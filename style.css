@@ -83,14 +83,4 @@ a{
   }
 
 
-footer{
-    background-color: rgb(224, 85, 34);
-height: 10vh;
-width: 100vw;
-text-align: center;
-}
-footer a{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-}
+
